@@ -13,7 +13,6 @@ education:
     languages: Ruby, JavaScript, HTML, CSS, SQL
     frameworks: Ruby on Rails, React.js, Bootstrap 
     databases/libraries/tools: Postgres, APIs, Node/npm, Git, GitHub
-
   ]
 fields_of_interest:
   [
