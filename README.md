@@ -10,7 +10,10 @@ pronouns: he/they
 located_in: Philadelphia, PA
 education: 
   [
-    "Current student learning fullstack Ruby/Ruby On Rails/JS"
+    languages: Ruby, JavaScript, HTML, CSS, SQL
+    frameworks: Ruby on Rails, React.js, Bootstrap 
+    databases/libraries/tools: Postgres, APIs, Node/npm, Git, GitHub
+
   ]
 fields_of_interest:
   [
